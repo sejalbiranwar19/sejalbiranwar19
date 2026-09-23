@@ -6,12 +6,12 @@ I'm an Information Technology student interested in **Artificial Intelligence, M
 
 ## 🛠️ Skills
 
-* **Programming:** Python
+* **Programming:** Python, java, DSA 
 * **AI/ML:** Machine Learning, Deep Learning
 * **Data & Visualization:** Power BI, Data Analysis
 * **Web:** HTML, CSS
 * **Tools:** Git, GitHub, VS Code, Google Colab
-* **Core Skills:** Data Structures & Algorithms, Problem Solving
+* **Core Skills:** Data Structures & Algorithms, Problem Solving, Teamwork
 
 ## 🚀 Projects
 
