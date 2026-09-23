@@ -31,6 +31,12 @@ A mini-project exploring quantum computing and deep learning for acne image clas
 * Data Structures & Algorithms
 * Web Development
 
+## 🏆 Certifications
+
+- Data Structures & Algorithms — Bootcoding Pvt. Ltd.
+- python basics
+- Artificial intelligence and Machine learning 
+
 ## 🎯 Career Goal
 
 To continuously improve my technical skills and build meaningful projects that solve real-world problems.
