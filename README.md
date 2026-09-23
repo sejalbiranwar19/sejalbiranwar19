@@ -44,6 +44,6 @@ To continuously improve my technical skills and build meaningful projects that s
 💻 GitHub: @sejalbiranwar19
 
 📧 Email: sejalbiranwar671@gmail.com
----
+----
 
 ⭐ *Thanks for visiting my profile!*
