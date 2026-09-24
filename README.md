@@ -43,11 +43,9 @@ To continuously improve my technical skills and build meaningful projects that s
 
 ## 📫 Connect With Me
 
-* GitHub: [@sejalbiranwar19](https://github.com/sejalbiranwar19)
+💻 GitHub: [@sejalbiranwar19](https://github.com/sejalbiranwar19)
 
 💼 LinkedIn: https://www.linkedin.com/in/sejal-biranwar-413197348
-
-💻 GitHub: @sejalbiranwar19
 
 📧 Email: sejalbiranwar671@gmail.com
 ----
